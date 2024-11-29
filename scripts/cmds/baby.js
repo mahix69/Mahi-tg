@@ -30,10 +30,10 @@ module.exports = {
     try {
       if (!args[0]) {
         const ran = [
-          "Bolo baby",
-          "hum",
-          "type help baby",
-          "type !baby hi",
+          "ha bolo babu",
+          "hum ummmah",
+          "amr boss mahire ummmah saw",
+          "ami tmr mahi baby",
           "yes baby",
           "hey baby😃",
           "hey i am here😃"
